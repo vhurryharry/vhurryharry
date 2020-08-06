@@ -1,4 +1,11 @@
-### Hi there 👋
+
+## Hi there 👋
+Welcome to my github profile! ✨🙌👋
+
+## 🎯
+
+My focus is to work for future! Work on new things!
+To do that, I am constantly learning new things and improving my skills.
 
 <!--
 **vhurryharry/vhurryharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
