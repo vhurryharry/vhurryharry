@@ -4,7 +4,8 @@ Welcome to my github profile! ✨🙌👋
 
 ## 🎯
 
-My focus is to work for future! Work on new things!
+My focus is to work for future! Work on new things! 
+
 To do that, I am constantly learning new things and improving my skills.
 
 <!--
