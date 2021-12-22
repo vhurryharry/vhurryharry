@@ -1,8 +1,8 @@
 <div align="center">
   
-###
 ### Learn, challenge, thrive!
 ### Stand straight, walk proud, have faith!
+###
 ###
   
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhurryharry&layout=compact&theme=monokai&private=true">
