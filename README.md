@@ -1,7 +1,7 @@
 
 ### 🌀 Wanderer of the Stack
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhurryharry&layout=compact&theme=monokai&private=true">
+<!-- <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhurryharry&layout=compact&theme=monokai&private=true"> -->
   
 #### > Writes code like poetry, debugs like prophecy.  
 #### > Sometimes builds, sometimes breaks — always ships.  
